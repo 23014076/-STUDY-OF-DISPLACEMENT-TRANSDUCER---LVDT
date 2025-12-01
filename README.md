@@ -28,8 +28,9 @@ voltages are noted down.
 8. A graph between displacement and output voltage is drawn.
 
 
-<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+<img width="313" height="402" alt="image" src="https://github.com/user-attachments/assets/cda6c8a8-d02f-4e26-9c22-42668a5c307d" />
+
 
 RESULT:
-
+LVDT characteristics are observed and studied. It is found that for a particular range, there is linear relationship between displacement and the output voltage of LVDT.
 
